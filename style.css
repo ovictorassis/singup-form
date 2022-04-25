@@ -7,6 +7,10 @@
 body {
     font-size: 16px;
     padding: 4rem 1rem;
+    background: url(./images/bg-intro-desktop.png);
+    background-repeat: repeat;
+    background-color: hsl(0, 100%, 74%);
+
 }
 
 .tittle h1 {
